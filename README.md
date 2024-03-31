@@ -2,6 +2,8 @@
 
 This project is a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS, and JavaScript. It allows players to compete against each other in a fun and interactive way.
 
+Root branch : my-new-branch
+
 Features
 
 
